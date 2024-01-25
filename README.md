@@ -24,3 +24,14 @@
 - 開発言語：TypeScript
 - U　R　L ：https://clerk-auth-nextjs-drab.vercel.app/
 - 開発秘話：奇怪な夢に出てきたのは上半身だけコウメ太夫さんに変装した江頭2:50さんでした
+
+#### ブログサイト（2つ目）
+- (個人/チーム)開発
+- タイトル：ブログ（SolidStart Ver)
+- 概　　要：SolidStartでmicroCMSに書いたブログのデータを表示する
+- 開発背景：SolidStartで何かしら作りたいと考え、ちょうどブラウザでmicroCMSのコンテンツ管理画面を開いていたため
+- 開発期間：3日
+- 開発人数：1人
+- 開発言語：TypeScript
+- U　R　L ：https://solidstart-template.vercel.app/
+- 開発秘話：これを作ったあとしばらく「Solid.jsとかSolidStartはなんでもっと流行らんのやろ」ってぼやいてました
