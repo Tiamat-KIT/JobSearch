@@ -24,7 +24,7 @@
 - 開発期間：2週間
 - 開発人数：1人
 - 開発言語：TypeScript
-- U　R　L ：[UtakataPortfolio](https://utakataportfolio.vercel.app/)
+- U　R　L ：[https://utakataportfolio.vercel.app/](https://utakataportfolio.vercel.app/)
 - 開発秘話：本名で作らないと意味がないのでは？と思いながら作成した
 
 #### うたちゃんのページ
@@ -35,7 +35,7 @@
 - 開発期間：4時間
 - 開発人数：1人
 - 開発言語：TypeScript
-- U　R　L ：[ウタちゃんのお部屋](https://utachan.vercel.app/)
+- U　R　L ：[https://utachan.vercel.app/](https://utachan.vercel.app/)
 - 開発秘話：エイプリルフール中に思いついて急いで作り、フォントに漢字がないのを途中で知り、「あああ～！！」って家の中で叫びながらすべてひらがなに変更した
 
 #### DreamBoard(開発中)
