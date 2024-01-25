@@ -22,7 +22,7 @@
 - 開発期間：
 - 開発人数：1人
 - 開発言語：TypeScript
-- U　R　L ：https://clerk-auth-nextjs-drab.vercel.app/
+- U　R　L ：[https://clerk-auth-nextjs-drab.vercel.app/](https://clerk-auth-nextjs-drab.vercel.app/)
 - 開発秘話：奇怪な夢に出てきたのは上半身だけコウメ太夫さんに変装した江頭2:50さんでした
 
 #### ブログサイト（2つ目）
@@ -33,7 +33,7 @@
 - 開発期間：3日
 - 開発人数：1人
 - 開発言語：TypeScript
-- U　R　L ：https://solidstart-template.vercel.app/
+- U　R　L ：[https://solidstart-template.vercel.app/](https://solidstart-template.vercel.app/)
 - 開発秘話：これを作ったあとしばらく「Solid.jsとかSolidStartはなんでもっと流行らんのやろ」ってぼやいてました
 
 
@@ -45,5 +45,16 @@
 - 開発期間：半日
 - 開発人数：1人
 - 開発言語：TypeScript,MDX
-- U　R　L ：https://solidstart-template.vercel.app/
+- U　R　L ：[https://solidstart-template.vercel.app/](https://flask-guide-fjdn6nxwg-tiamat-kit.vercel.app/)
 - 開発秘話：当の後輩はすごく自走力があったため、結局これを使わずに一人でFlaskを学んでいきました。作った意味とは
+
+#### Vision Transitions API in MyBlog 
+- 個人開発
+- タイトル：Vision Transitions API in MyBlog
+- 概　　要：Vision Transition APIで僕がどんな人なのかパッと見れるボタンをつけただけのmicroCMSブログ
+- 開発背景：Vision Transition APIが話題になり始めたので触りたくて開発した
+- 開発期間：半日
+- 開発人数：1人
+- 開発言語：TypeScript
+- U　R　L ：[https://solidstart-template.vercel.app/](https://new-tiamat-portfolio.vercel.app/)
+- 開発秘話：Vision Transition APIを使ってみて、「まあCSSでよくねえか...?」という無粋なことを考えたりしてしまった。
